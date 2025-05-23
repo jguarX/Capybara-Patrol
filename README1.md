@@ -1,0 +1,4 @@
+# Solution 
+For a positive integer $n$ and a prime $k$, define $A_{k}(n)$ as the number of times $n$ is divisible by $k$ (also known as p-adic valuation of $n$). Since the common denominator will be a divisor of the product $\prod_{i=1}^{N}Y_{i}$, we can determine the final denominator by examining how each prime factor contributes to the denominators and then taking the product of the necessary powers of each prime. (Once q is determined, we can compute the numerator $p$ using values of $X_{i}$ and $q$.)
+For a particular prime $k$, we want to know how many times $q$ is divisible by $k$. To do this, let's consider:
+![s1](s1.png)
