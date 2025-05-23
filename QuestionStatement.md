@@ -1,6 +1,6 @@
 # Easy Fractions
-### time limit per test2 seconds
-### memory limit per test512 megabytes
+##### time limit per test2 seconds
+##### memory limit per test512 megabytes
 
 
 Just a single line problem.   
